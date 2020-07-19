@@ -20,7 +20,7 @@ while i<n:
             if guess[p] == "stone":
                 print("you win")
             elif guess[p] == "scissor":
-                print("you lose")
+                print("you fuckin lose")
             else:
                 print("draw")
         if myguess == "scissor":
